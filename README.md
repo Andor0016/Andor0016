@@ -6,7 +6,7 @@
 
 - 💬 Ask me about **C#, wpf**
 
-- 📫 How to reach me **andor.balo.csoka@gmail.com**
+- 📫 How to reach me **andor0016@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
