@@ -2,9 +2,10 @@
 <h3 align="center">A student developer, from Hungary.</h3>
 
 - 🌱 I’m currently learning **Java and C++**
+- 👨‍💻 I’m currently working on <a href="https://github.com/Andor0016/DFW_webpage" target="_blank">**DFW webpage**</a>
 - 💬 Ask me about **C#, WPF, C**
 - 📫 How to reach me **andor0016@gmail.com**
-- 📄 Check my <a href="./resources/Balo-Andor-CV.pdf">**CV**</a>
+- 📄 Check my <a href="https://drive.google.com/file/d/1B8kop599-XkXr-r2sMD9ehZaHPCjKHr1/view?usp=sharing" target="_blank">**CV**</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
