@@ -1,8 +1,9 @@
-<h1 align="center">Hi 👋, I'm Andor</h1>
-<h3 align="center">A student developer, from Hungary.</h3>
+info@andor0016 / $ aboutme <br>
+    Hi! I'm Andor!
+    I'm Student and Developer from Hungary!
 
 - 🌱 I’m currently learning **Java and C++**
-- 👨‍💻 I’m currently working on <a href="https://github.com/Andor0016/DFW_webpage" target="_blank">**DFW webpage**</a>
+- 👨‍💻 I’m currently working on <a href="https://github.com/Andor0016/consoleminigames" target="_blank">**Console mini games**</a>
 - 💬 Ask me about **C#, WPF, C**
 - 📫 How to reach me **andor0016@gmail.com**
 - 📄 Check my <a href="https://drive.google.com/file/d/1iHGxLgqRuoPrMsTzuqbKEY9Zsuca4Mk_/view?usp=sharing" target="_blank">**CV**</a>
