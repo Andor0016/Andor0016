@@ -52,6 +52,9 @@
     </a>
     <a href="https://www.php.net" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> 
+    </a>
+    <a href="https://www.yiiframework.com/" target="_blank" rel="noreferrer">
+        <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/yii_original_wordmark_logo_icon_146286.png" alt="Yii framework" width="40" heigth="40"/>
     </a> 
     <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
